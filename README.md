@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:rushithaalva01@gmail.com"><img src="https://img.shields.io/badge/Email-rushithaalva01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rushithaalva"><img src="https://img.shields.io/badge/LinkedIn-rushithaalva-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rushitha-alva"><img src="https://img.shields.io/badge/LinkedIn-rushithaalva-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rushithaalva01"><img src="https://img.shields.io/badge/GitHub-rushithaalva01-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
