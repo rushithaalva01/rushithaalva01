@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full Stack Software Developer</b> · Java · Spring Boot · React JS · Microservices<br/>
   🎓 MS Computer Science @ University of South Florida &nbsp;|&nbsp; 📍 Tampa, FL<br/>
-  💼 Open to Full-Time Opportunities · Available Aug 2026
+  💼 Open to Full-Time Opportunities · Available June 2026
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ I'm a Full Stack Software Developer with **3+ years of experience** building sca
 
 ## 🎓 Education
 
-- 🎓 **MS Computer Science** — University of South Florida *(Aug 2024 – Aug 2026)*
+- 🎓 **MS Computer Science** — University of South Florida *(Aug 2024 – June 2026)*
 - 🎓 **BS Computer Science** — GITAM University *(Aug 2018 – Apr 2022)*
 
 ---
