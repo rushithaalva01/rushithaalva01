@@ -18,7 +18,7 @@
 
 I'm a Full Stack Software Developer with **3+ years of experience** building scalable web applications and reactive microservices. Currently pursuing my **Master's in Computer Science at USF**, I love solving real engineering problems — from cutting API latency by 25% to improving test coverage by 40%.
 
-- 🔭 Currently interning at **Macmillan Publishers** as a Full Stack Developer
+- 🔭 Currently interning at **Macmillan Publishers** as a Project management intern
 - 🌱 Deepening expertise in **reactive programming, cloud-native architectures, and AI-powered dev tools**
 - 🤖 Experienced with **GitHub Copilot & Cursor** for AI-assisted development
 - 💡 Passionate about clean code, Agile delivery, and building accessible UIs
