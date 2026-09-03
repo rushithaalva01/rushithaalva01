@@ -104,7 +104,7 @@ I'm a Full Stack Software Developer with **3+ years of experience** building sca
 
 | Company | Role | Impact |
 |---|---|---|
-| **Macmillan Publishers** | Full Stack Developer Intern | Reduced stakeholder reporting time ~30% with Power BI dashboards |
+| **Macmillan Publishers** | Project Management Office intern | Reduced stakeholder reporting time ~30% with Power BI dashboards |
 | **Hitachi Vantara** | Associate Software Engineer | Reduced API latency ~25% with reactive microservices |
 | **Hitachi Vantara** | Software QA Intern | Documented 50+ defects; improved release readiness |
 
